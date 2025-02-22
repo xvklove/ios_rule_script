@@ -10,8 +10,8 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 5
 # TOTAL: 43
-DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
+DOMAIN,api.imem.app
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
